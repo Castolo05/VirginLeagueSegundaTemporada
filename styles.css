@@ -1,0 +1,167 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1, h2 {
+    text-align: center;
+    color: #2c3e50;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.table-container, .fixtures-container {
+    width: 100%;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    overflow-x: auto;
+}
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px 8px;
+    text-align: center;
+}
+th {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+.fixtures-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.fixture {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.fixture h3 {
+    margin-top: 0;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+.match {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.team {
+    flex: 1;
+    font-weight: bold;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.team-right {
+    justify-content: center;
+}
+.score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    min-width: 80px;
+    background-color: #ecf0f1;
+    padding: 8px;
+}
+.vs {
+    margin: 0 10px;
+    color: #7f8c8d;
+}
+.draw {
+    background-color: #e4e012;
+    color: white;
+}
+.winner {
+    background-color: #2ecc71;
+    color: white;
+}
+.loser {
+    background-color: #e74c3c;
+    color: white;
+}
+.not-played {
+    background-color: transparent;
+    color: #7f8c8d;
+}
+.pos-1-5 {
+    background-color: #00a63d;
+}
+.pos-6-13 {
+    background-color: #cac715;
+}
+.pos-14-18 {
+    background-color: #d92323;
+}
+.pts-column {
+    background-color: #a2d9ff;
+    font-weight: bold;
+}
+.position-column {
+    width: 50px;
+    font-weight: bold;
+}
+.highlight {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    .table-container, .fixtures-container {
+        padding: 10px;
+    }
+    table {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 8px 4px;
+    }
+    .fixtures-grid {
+        grid-template-columns: 1fr;
+    }
+    .match {
+        flex-direction: column;
+        align-items: center;
+    }
+    .team, .score {
+        width: 100%;
+        justify-content: center;
+        padding: 6px;
+    }
+    .team-right {
+        order: 3;
+    }
+    .score {
+        order: 2;
+    }
+}

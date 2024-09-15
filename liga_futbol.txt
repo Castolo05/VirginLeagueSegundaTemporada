@@ -1,0 +1,186 @@
+# Fecha 1
+1|Atletico de Madrid|0|4|Inter
+1|Milan|2|1|Villareal
+1|Chelsea|1|1|Bayern Munich
+1|Manchester United|9|0|Roma
+1|Real Madrid|4|1|Lyon
+1|Liverpool|2|0|Ajax
+1|Tottenham|1|2|Arsenal
+1|Benfica|4|1|Juventus
+1|Valencia|0|1|Barcelona
+
+# Fecha 2
+2|Atletico de Madrid|0|3|Villareal
+2|Inter|3|3|Bayern Munich
+2|Milan|2|0|Roma
+2|Chelsea|4|0|Lyon
+2|Manchester United|5|0|Ajax
+2|Real Madrid|3|1|Arsenal
+2|Liverpool|1|0|Juventus
+2|Tottenham|0|4|Barcelona
+2|Benfica|1|1|Valencia
+
+# Fecha 3
+3|Atletico de Madrid|0|3|Bayern Munich
+3|Villareal|0|0|Roma
+3|Inter|||Lyon
+3|Milan|4|0|Ajax
+3|Chelsea|6|2|Arsenal
+3|Manchester United|2|0|Juventus
+3|Real Madrid|2|5|Barcelona
+3|Liverpool|1|0|Valencia
+3|Tottenham|2|1|Benfica
+
+# Fecha 4
+4|Atletico de Madrid|0|2|Roma
+4|Bayern Munich|0|0|Lyon
+4|Villareal|0|0|Ajax
+4|Inter|1|1|Arsenal
+4|Milan|5|0|Juventus
+4|Chelsea|0|0|Barcelona
+4|Manchester United|4|0|Valencia
+4|Real Madrid|2|2|Benfica
+4|Liverpool|1|1|Tottenham
+
+# Fecha 5
+5|Atletico de Madrid|||Lyon
+5|Roma|1|1|Ajax
+5|Bayern Munich|5|2|Arsenal
+5|Villareal|0|1|Juventus
+5|Inter|0|5|Barcelona
+5|Milan|0|1|Valencia
+5|Chelsea|4|2|Benfica
+5|Manchester United|3|2|Tottenham
+5|Real Madrid|0|3|Liverpool
+
+# Fecha 6
+6|Atletico de Madrid|0|3|Ajax
+6|Lyon|||Arsenal
+6|Roma|0|0|Juventus
+6|Bayern Munich|0|5|Barcelona
+6|Villareal|1|1|Valencia
+6|Inter|3|2|Benfica
+6|Milan|6|0|Tottenham
+6|Chelsea|4|2|Liverpool
+6|Manchester United|3|1|Real Madrid
+
+# Fecha 7
+7|Atletico de Madrid|||Arsenal
+7|Ajax|2|0|Juventus
+7|Lyon|||Barcelona
+7|Roma|||Valencia
+7|Bayern Munich|||Benfica
+7|Villareal|||Tottenham
+7|Inter|0|1|Liverpool
+7|Milan|3|1|Real Madrid
+7|Chelsea|||Manchester United
+
+# Fecha 8
+8|Atletico de Madrid|0|2|Juventus
+8|Arsenal|||Barcelona
+8|Ajax|||Valencia
+8|Lyon|||Benfica
+8|Roma|||Tottenham
+8|Bayern Munich|2|0|Liverpool
+8|Villareal|0|1|Real Madrid
+8|Inter|||Manchester United
+8|Milan|0|2|Chelsea
+
+# Fecha 9
+9|Atletico de Madrid|||Barcelona
+9|Juventus|||Valencia
+9|Arsenal|||Benfica
+9|Ajax|||Tottenham
+9|Lyon|||Liverpool
+9|Roma|||Real Madrid
+9|Bayern Munich|||Manchester United
+9|Villareal|||Chelsea
+9|Inter|||Milan
+
+# Fecha 10
+10|Atletico de Madrid|||Valencia
+10|Barcelona|||Benfica
+10|Juventus|||Tottenham
+10|Arsenal|||Liverpool
+10|Ajax|||Real Madrid
+10|Lyon|||Manchester United
+10|Roma|||Chelsea
+10|Bayern Munich|||Milan
+10|Villareal|||Inter
+
+# Fecha 11
+11|Atletico de Madrid|||Benfica
+11|Valencia|||Tottenham
+11|Barcelona|||Liverpool
+11|Juventus|||Real Madrid
+11|Arsenal|||Manchester United
+11|Ajax|||Chelsea
+11|Lyon|||Milan
+11|Roma|||Inter
+11|Bayern Munich|||Villareal
+
+# Fecha 12
+12|Atletico de Madrid|||Tottenham
+12|Benfica|||Liverpool
+12|Valencia|||Real Madrid
+12|Barcelona|||Manchester United
+12|Juventus|||Chelsea
+12|Arsenal|||Milan
+12|Ajax|||Inter
+12|Lyon|||Villareal
+12|Roma|||Bayern Munich
+
+# Fecha 13
+13|Atletico de Madrid|||Liverpool
+13|Tottenham|||Real Madrid
+13|Benfica|||Manchester United
+13|Valencia|||Chelsea
+13|Barcelona|||Milan
+13|Juventus|||Inter
+13|Arsenal|||Villareal
+13|Ajax|||Bayern Munich
+13|Lyon|||Roma
+
+# Fecha 14
+14|Atletico de Madrid|||Real Madrid
+14|Liverpool|||Manchester United
+14|Tottenham|||Chelsea
+14|Benfica|||Milan
+14|Valencia|||Inter
+14|Barcelona|||Villareal
+14|Juventus|||Bayern Munich
+14|Arsenal|||Roma
+14|Ajax|||Lyon
+
+# Fecha 15
+15|Atletico de Madrid|||Manchester United
+15|Real Madrid|||Chelsea
+15|Liverpool|||Milan
+15|Tottenham|||Inter
+15|Benfica|||Villareal
+15|Valencia|||Bayern Munich
+15|Barcelona|||Roma
+15|Juventus|||Lyon
+15|Arsenal|||Ajax
+
+# Fecha 16
+16|Atletico de Madrid|||Chelsea
+16|Manchester United|||Milan
+16|Real Madrid|||Inter
+16|Liverpool|||Villareal
+16|Tottenham|||Bayern Munich
+16|Benfica|||Roma
+16|Valencia|||Lyon
+16|Barcelona|||Ajax
+16|Juventus|||Arsenal
+
+# Fecha 17
+17|Atletico de Madrid|||Milan
+17|Chelsea|||Inter
+17|Manchester United|||Villareal
+17|Real Madrid|||Bayern Munich
+17|Liverpool|||Roma
+17|Tottenham|||Lyon
+17|Benfica|||Ajax
+17|Valencia|||Arsenal
+17|Barcelona|||Juventus
