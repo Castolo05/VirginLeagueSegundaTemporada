@@ -69,7 +69,7 @@
 7|Ajax|2|0|Juventus
 7|Lyon|||Barcelona
 7|Roma|||Valencia
-7|Bayern Munich|||Benfica
+7|Bayern Munich|0|2|Benfica
 7|Villareal|1|1|Tottenham
 7|Inter|0|1|Liverpool
 7|Milan|3|1|Real Madrid
