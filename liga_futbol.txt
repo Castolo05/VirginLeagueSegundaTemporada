@@ -87,26 +87,26 @@
 8|Milan|0|2|Chelsea
 
 # Fecha 9
-9|Atletico de Madrid|||Barcelona
+9|Atletico de Madrid|0|3|Barcelona
 9|Juventus|||Valencia
 9|Arsenal|||Benfica
 9|Ajax|||Tottenham
 9|Lyon|2|2|Liverpool
-9|Roma|||Real Madrid
+9|Roma|1|1|Real Madrid
 9|Bayern Munich|0|0|Manchester United
 9|Villareal|1|1|Chelsea
 9|Inter|0|2|Milan
 
 # Fecha 10
 10|Atletico de Madrid|||Valencia
-10|Barcelona|||Benfica
+10|Barcelona|1|0|Benfica
 10|Juventus|1|1|Tottenham
 10|Arsenal|0|1|Liverpool
-10|Ajax|||Real Madrid
+10|Ajax|0|3|Real Madrid
 10|Lyon|||Manchester United
 10|Roma|0|9|Chelsea
 10|Bayern Munich|0|1|Milan
-10|Villareal|||Inter
+10|Villareal|1|1|Inter
 
 # Fecha 11
 11|Atletico de Madrid|||Benfica
