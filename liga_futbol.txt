@@ -79,7 +79,7 @@
 8|Atletico de Madrid|0|2|Juventus
 8|Arsenal|0|3|Barcelona
 8|Ajax|||Valencia
-8|Lyon|||Benfica
+8|Lyon|1|2|Benfica
 8|Roma|0|3|Tottenham
 8|Bayern Munich|2|0|Liverpool
 8|Villareal|0|1|Real Madrid
