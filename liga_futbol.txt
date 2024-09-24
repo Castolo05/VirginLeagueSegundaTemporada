@@ -87,7 +87,7 @@
 8|Milan|0|2|Chelsea
 
 # Fecha 9
-9|Atletico de Madrid|0|3|Barcelona
+9|Atletico de Madrid|0|8|Barcelona
 9|Juventus|||Valencia
 9|Arsenal|||Benfica
 9|Ajax|||Tottenham
