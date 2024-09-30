@@ -111,7 +111,7 @@
 # Fecha 11
 11|Atletico de Madrid|||Benfica
 11|Valencia|||Tottenham
-11|Barcelona|||Liverpool
+11|Barcelona|1|0|Liverpool
 11|Juventus|||Real Madrid
 11|Arsenal|||Manchester United
 11|Ajax|||Chelsea
@@ -121,10 +121,10 @@
 
 # Fecha 12
 12|Atletico de Madrid|||Tottenham
-12|Benfica|||Liverpool
+12|Benfica|1|0|Liverpool
 12|Valencia|||Real Madrid
 12|Barcelona|||Manchester United
-12|Juventus|||Chelsea
+12|Juventus|1|8|Chelsea
 12|Arsenal|||Milan
 12|Ajax|||Inter
 12|Lyon|||Villareal
