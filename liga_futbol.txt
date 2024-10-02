@@ -112,7 +112,7 @@
 11|Atletico de Madrid|||Benfica
 11|Valencia|||Tottenham
 11|Barcelona|1|0|Liverpool
-11|Juventus|||Real Madrid
+11|Juventus|0|2|Real Madrid
 11|Arsenal|||Manchester United
 11|Ajax|||Chelsea
 11|Lyon|||Milan
