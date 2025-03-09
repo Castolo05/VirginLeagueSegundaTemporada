@@ -175,12 +175,12 @@
 16|Juventus|||Arsenal
 
 # Fecha 17
-17|Atletico de Madrid|||Milan
-17|Chelsea|||Inter
-17|Manchester United|||Villareal
-17|Real Madrid|||Bayern Munich
-17|Liverpool|||Roma
-17|Tottenham|||Lyon
-17|Benfica|||Ajax
-17|Valencia|||Arsenal
-17|Barcelona|||Juventus
+17|Atletico de Madrid|2|9|Milan
+17|Chelsea|2|2|Inter
+17|Manchester United|1|2|Villareal
+17|Real Madrid|0|0|Bayern Munich
+17|Liverpool|11|123|Roma
+17|Tottenham|1234|1|Lyon
+17|Benfica|411111|11112|Ajax
+17|Valencia|2|2|Arsenal
+17|Barcelona|0|0|Juventus
